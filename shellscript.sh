@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir test1
+sudo apt-get install httpd -y
